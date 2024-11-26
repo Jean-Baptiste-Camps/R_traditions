@@ -1024,6 +1024,33 @@ library(ggplot2)
 ggplot(data=d, aes(x=Freq)) + geom_bar(stat = "count") + scale_y_continuous(trans='log10')
 ```
 
+From secondary controlled data:
+
+```{r}
+# Color-blind friendly palette
+cbbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
+```
+
+
+```{r}
+plot(RepTrad[,1], type = "h", col = "red", lwd = 10, main = "Distr. of wits per epic text \n Data: Vitale-Brovarone (2006)", xlab = "number of witnesses", ylab = "Freqs", sub = paste("N = ", sum(RepTrad[,1])), xlim = c(0.1,30), ylim = c(1,80), xaxs = "i", yaxs = "i")
+
+
+romans = read.csv("data/Pierandrea_table_p53.csv")
+romans = romans[, "Nmss", drop = FALSE]
+romans = cbind(romans, "romances")
+colnames(romans) = c("Nwits", "Type")
+epics = RepTradData
+epics = cbind(epics, "epics")
+colnames(epics) = c("Nwits", "Type")
+data = rbind(epics, romans)
+ggplot(data, aes(Nwits, fill = Type)) + 
+        geom_bar(stat = "count", position = "dodge") + scale_fill_manual(values=cbPalette) # + scale_x_log10() 
+
+```
+
+
 
 # Minnesang
 

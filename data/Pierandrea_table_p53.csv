@@ -1,0 +1,100 @@
+ID,Nmss,author,text,date-freetext,textDate,oldestWit-freetext,oldestWit,youngestWit-freetext,youngestWit,lang
+1,1,Alexandre du Pont,Roman de Mahomet,1258,1258,XIII 4/4,1276-1300,,,fro
+2,1,,Apollonius de Tyr,XII metà (?),1146-1155,XIII 2/3,1267-1300,,,fro
+3,1,Arnaut de Castelnaudari,Guilhem de la Barra,1318,1318,1318-1324,1318-1324,,,pro
+4,1,,Belris,XIV 3/4,1367-1400,XIV ex.,1381-1400,,,
+5,1,Béroul,Tristan,XII 2/2,1151-1200,XIII ex.,1281-1300,,,
+6,1,,Blandin de Cornoalha,XIV metà,1341-1360,XV 1/2,1401-1450,,,pro
+7,1,,Brunor,anteriore al ms.,1201-1300,XIII 2/2 (o fine),1251-1300,,,fro
+8,1,,Chevalier à l'épée,XIII in.,1201-1220,XIII ex. (?),1281-1300,,,
+9,1,,Claris et Laris,1268-1291,1268-1291,XIII ex. - XIV in,1281-1320,,,
+10,1,,Cristal et Clarie,XIII metà (?),1246-1255,XIII 3/4 (?),1234-1266,,,
+11,1,,Dame à la lycorne,XIV verso la metà,1341-1360,XIV metà,1341-1360,,,
+12,1,,Eledus et Serena,XIII 2/2,1251-1300,XV 1/2,1401-1450,,,
+13,1,,Enfances Gauvain,XIII ante ms.,1201-1260,XIII metà,1241-1260,,,fro
+14,1,,Floriant et Florete,XIII fine,1281-1300,XIV in.,1301-1320,,,
+15,1,,Gilles de Chin,1230-1240,1231-1240,1571,1571,,,
+16,1,,Gliglois,XIII 1/2,1201-1250,XV in.,1401-1420,,,
+17,1,,Gogulor,XIII? ante ms.,1201-1300,XIII 2/2,1251-1300,,,fro
+18,1,,Guillaume de Palerne,XIII anni '20,1221-1230,XIII ex.,1281-1300,,,
+19,1,Heldris de Cournouailles,Silence,XIII in.,1201-1220,XIII 2/4,1226-1250,,,
+20,1,,Hunbaut,XIII 2/3,1234-1267,XIII 2/2,1251-1300,,,
+21,1,,Ilas et Solvas,XIII? ante ms.,1201-1300,XIV in.,1301-1320,,,
+22,1,Jean Renart,Roman de la rose,XIII 1/3 (verso 1228),1224-1233,XIII 3/3 (anni '70-'80?),1271-1290,,,fro
+23,1,,Joufroi de Poitiers,XIII 2/2,1251-1300,XIV in.,1301-1320,,,
+24,1,,Lion de Bourges,XVI 1/2 (?),1501-1550,XVI 1/2,1501-1550,,,
+25,1,,Melior,XIII (?),1201-1300,XIII ex.,1281-1300,,,
+26,1,,Meriadeuc,XIII 1/2,1201-1250,XIII ex. - XIV in,1281-1320,,,fro
+27,1,,Mule sans frein,XIII 1/2,1201-1250,XIII ex.,1281-1300,,,fro
+28,1,,Octavian,XIII fine,1281-1300,XIII ex.,1281-1300,,,
+29,1,Philippe de Remy,Jehan et Blonde,XIII metà,1246-1255,1300 ca,1291-1310,,,fro
+30,1,Philippe de Remy,Manekine,XIII 2/4,1226-1250,1300 ca,1291-1310,,,fro
+31,1,Pierre Sala,Chevalier au lion,XVI in.,1501-1520,XVI in.,1501-1520,,,fro
+32,1,Renaut,Galeran de Bretagne,XIII in.,1201-1220,XV 2/2,1451-1500,,,fro
+33,1,Renaut de Bagé,Bel Inconnu,XII ex.(-XIII in.?),1181-1200,XIII 2/2,1251-1300,,,fro
+34,1,Mestre Requis,Richars li Biaus,XIII 2/2,1251-1300,XIV metà?,1341-1360,,,fro
+35,1,Robert de Blois,Beaudous,XIII metà,1246-1255,XIII ex.-XIV in.,1281-1320,,,fro
+36,1,Robert de Boron,Joseph d'Arimathie,1200 ca,1196-1205,XIII ex.,1281-1300,,,fro
+37,1,Robert de Boron,Merlin,XIII in.,1201-1220,XIII ex.,1281-1300,,,fro
+38,1,Sarrasin,Hem,1278,1278,1300 ca,1291-1310,,,
+39,1,,Sone de Nansay,XIII 2/2,1251-1300,XIV metà?,1341-1360,,,
+40,1,,Waldef,XIII in.,1201-1220,XIII ex.,1281-1300,,,
+41,1,,Wistasse le moine,XIII 2/4 (?),1226-1250,prob. 1285,1285,,,
+42,1,,Yder,XIII in.,1201-1220,XIII ex.-XIV in.,1281-1320,,,
+43,2,,Amadas et Ydoine,XII ex. / XIII in.,1181-1220,XII ex. / XIII in.,1181-1220,1289-1316,1289-1316,
+44,2,Chardri,Barlaam,XIII in.,1201-1220,XIII 2/2,1251-1300,XIII 2/2,1251-1300,
+45,2,,Berinus,XIII ante ms.,1201-1300,XIII ex.,1281-1300,XIII ex.,1281-1300,fro
+46,2,,Comte de Poitiers,XIII anni '20,1221-1230,XIII 3/3,1267-1300,XV ex.,1481-1500,
+47,2,,Flamenca,XIII post 1224 (post 1287?),1224-1300,XIII ex. - XIV in,1281-1320,XIV ex. - XV in.,1381-1420,pro
+48,2,Gautier d'Arras,Ille et Galeron,1167-1184,1167-1184,XIII 2/4?,1226-1250,1289-1316,1289-1316,
+49,2,Gerbert de Montreuil,Quatrième continuation Perceval,XIII anni '20,1221-1230,XIII 2/2,1251-1300,XIII 2/2,1251-1300,
+50,2,Chrétien,Guillaume d'Angleterre,XII ex. - XIII in.,1181-1220,1289-1316,1289-1316,XIV in.,1301-1320,
+51,2,,Durmart li Galois,XIII 1/2,1201-1250,XIII 2/2,1251-1300,XIII ex.,1281-1300,
+52,2,Guillaume le Clerc,Fergus,XIII anni '30,1231-1240,XIII 2/2,1251-1300,1290-1316,1291-1316,
+53,2,Héraut Chandos,Vie du Prince Noir,1385-86,1385-1386,XIV ex.,1381-1400,XIV ex.,1381-1400,
+54,2,Jakemes,Chastelain de Coucy,1300 ca,1296-1305,XIV 2/3,1334-1267,XIV 3/3,1367-1400,
+55,2,Jean,Merveilles Rigomer,XIII metà,1246-1255,XIII 2/2,1251-1300,XV in.,1401-1420,
+56,2,Jean Froissart,Meliador,XIV anni '70-'80,1371-1390,XIV ex. - XV in.,1381-1420,XIV ex. - XV in.,1381-1420,
+57,2,Jean Maillart,Roman du comte d'Anjou,1316,1316,XIV in.,1301-1320,XIV ex. - XV in.,1381-1420,
+58,2,Jean Renart,Escoufle,XIII in.,1201-1220,XIII 2/2,1251-1300,XIII ex.,1281-1300,
+59,2,Robert de Blois,Floris et Lyriopé,XIII 2/3,1234-1267,XIV 1/4,1301-1325,XIV 2/3,1334-1366,
+60,2,,Robert le diable en octosyllabes,XII ex.(-XIII in.),1181-1200,XIII 3/3,1267-1300,XIV ex.-XV in.,1381-1420,
+61,2,,"Sept sages, versions C et K",XIII 1/2,1201-1250,XIII ex.,1281-1300,1285,1285,
+62,2,Tommaso di Saluzzo,Chevalier errant,1394 o poco dopo,1394-1400,1403-1403,1403-1403,XV in.,1401-1420,
+63,3,,Amis et Amiloun,XII ex.-XIII in.,1181-1220,XIII 2/2,1251-1300,XIV 2/2,1351-1400,fro_ENG
+64,3,,Âtre périlleux,XIII metà,1246-1255,XIII 2/2,1251-1300,XIV 1/3,1301-1333,
+65,3,Gui de Cambrai,Balaham,1200 ca,1196-1205,XIII metà o 2/2,1241-1300,XIII ex. - XIV in.,1281-1320,
+66,3,Gautier d'Arras,Eracle,1159-1184,1159-1184,XIII 2/2,1251-1300,XIV in.,1301-1320,
+67,3,Girart d'Amiens,Escanor,1280,1280,XIII ex.,1281-1300,XIII ex. - XIV in.,1281-1320,
+68,3,Hue de Rotelande,Prothesilaus,ante 1191,1181-1191,XIII 1/2,1201-1250,XIV 1/2,1301-1350,
+69,4,,"Barlaam, vers. anonyme en vers",XIII 1/4,1201-1225,XIII metà,1241-1260,XIV metà o 2/2,1341-1400,
+70,4,Gerbert de Montreuil,Roman de la Violette,1221-1251,1221-1251,XIII metà,1241-1260,XV in.,1401-1420,
+71,4,Raoul (de Houdenc?),Vengeance Raguidel,XIII in.,1201-1220,XIII 2/4,1226-1250,XIII 2/2,1251-1300,
+72,5,Herbert,Dolopathos,XIII primi anni '20,1221-1225,XIII metà,1241-1260,XIV 2/3,1334-1366,
+73,5,,"Floire et Blancheflor, version aristocratique et vers. populaire",XII 2/2,1151-1200,XII ex.,1181-1200,XV 1/2,1401-1450,
+74,5,,Hector et Hercule,XIV in.,1301-1320,XIV in.,1301-1320,XIV 2/2,1351-1400,
+75,5,Hue de Rotelande,Ipomedon,1174-1191,1174-1191,XIII metà,1241-1260,XIV 2/2,1351-1400,
+76,5,Jacques Bretel,Tournoi de Chauvency,verso il 1285,1281-1290,XIV in.,1301-1320,XVI,1501-1600,
+77,5,Raoul de Houdenc,Meraugis de Portlesguez,XIII in.,1201-1220,XIII 3/3,1267-1300,XV in.,1401-1420,
+78,6,,Blancandin et l'Orgueilleuse d'Amour,XIII 1/2 (prob. 2/4),1226-1250,XIII,1226-1300,XIV in.,1301-1320,1301-1320
+79,6,Girart d'Amiens,Meliacin,1285-1288,1286-1288,XIII ex. (-XIV in.?),1281-1300,XIV ex.,1381-1400,
+80,6,,Thèbes,XII anni '50,1151-1160,XII ex.,1181-1200,XV in.,1401-1420,
+81,6,Thomas,Tristan,XII anni '50-'70,1151-1170,XII 4/4,1176-1200,XIII 2/2,1251-1300,
+82,8,Chrétien de Troyes,Charrette,(post 1176-)1181,1181,XIII anni '30,1231-1240,XIII ultimi anni,1291-1300,1291-1300
+83,8,,Jaufre,XII ex. - XIII in.,1181-1220,XIII metà,1241-1260,XIV ex.,1381-1400,
+84,9,,Eneas,1155-1165,1155-1165,XII ex. - XIII in.,1181-1220,XV in.,1401-1420,
+85,9,Manessier,Troisième Continuation Perceval,XIII anni '10-'20,1211-1230,XIII 3/4,1234-1266,XIV 1/2,1301-1350,
+86,11,Wauchier de Denain,Deuxième Continuation Perceval,1200 ca o poco dopo,1196-1210,XIII 1/2,1201-1250,XIV 1/2,1301-1350,
+87,12,,Partonopeus de Blois,1170-1188,1171-1188,XII ex.-XIII in.,1181-1220,XIV ,1301-1400,
+88,12,Chrétien de Troyes,Cligés,1176,1176,XIII in.,1201-1220,XIV 2/3,1334-1366,
+89,12,Chrétien de Troyes,Erec et Enide,1170,1170,XIII 1/3,1201-1233,1289-1316,1289-1316,
+90,13,Adenet le Roi,Cleomadès,1280 ca.,1276-1285,1285-1290,1286-1290,XV ex.,1481-1500,
+91,13,Chrétien de Troyes,Yvain,(post 1177-)1181,1181,XIII 1/3,1201-1233,XIV in.,1301-1320,
+92,14,Alexandre de Bernay,"Athis et Prophilias (2 vers. courte, 12 versions longue)",1200 ca,1196-1205,XIII 1/4,1201-1225,1400-1405,1401-1405,
+93,15,,Première Continuation Perceval,1200 ca,1196-1205,XIII 1/2,1201-1250,XIV ex.,1381-1400,
+94,16,,Gui de Warewic,XIII in.,1201-1220,XIII anni '10-'30,1211-1240,XIV metà (?),1341-1360,
+95,17,Aimon de Varenne,Florimont,1188,1188,XIII metà (o 2/2),1241-1260,1465,1465,
+96,20,Chrétien de Troyes,Perceval,1181-1190,1181-1190,XIII 1/3,1201-1233,XIV metà ,1341-1360,
+97,21,Coudrette,Melusine,1400 ca,1396-1405,XV in.,1401-1420,XVI in.,1521-1600,
+98,32,Wace,Brut,1155,1155,XII ex.,1181-1200,XV in.,1401-1420,
+99,65,Benoît de Sainte-Maure,Roman de Troie,1160-70,1161-1170,XII ex.,1181-1200,XIV 2/3,1334-1366,
